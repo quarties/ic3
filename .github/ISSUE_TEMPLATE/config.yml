@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Problem z bezpieczeństwem
+    url: https://github.com/quarties/ic3/security/advisories/new
+    about: Zgłoś prywatnie, nie w publicznym issue.
+  - name: Problem z biletem, kontem albo serwisem ebilet.intercity.pl
+    url: https://www.intercity.pl/pl/site/dla-pasazera/obsluga-klientow/kontakt/
+    about: IC3 nie jest serwisem PKP Intercity. Sprawy biletów zgłaszaj do PKP Intercity.

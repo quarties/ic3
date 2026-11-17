@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><svg xmlns:eic="http://www.intercity.pl/eic" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1120" height="200" viewBox="0 0 1120 200" version="1.1" schema="2124"><defs><pattern id="smallGrid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M 20 0 L 0 0 0 20" fill="none"></path></pattern><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="url(#smallGrid)"></rect><path d="M 40 0 L 0 0 0 40" fill="none"></path></pattern></defs><rect width="100%" height="100%" fill="url(#grid)" style="stroke:darkgrey; stroke-width:2"></rect><image id="N65786-img-24-T" class="internal" x="280" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/24T.png"></image><image id="N65792-img-29-T" class="internal" x="560" y="120" width="80" height="80" xlink:href="https://img.intercity.pl/grm/29T.png"></image><image id="N65798-img-25-T" class="internal" x="20" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/25T.png"></image><image id="N65804-img-24-T" class="internal" x="100" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/24T.png"></image><image id="N65810-img-25-T" class="internal" x="240" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/25T.png"></image><image id="N65816-img-24-T" class="internal" x="480" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/24T.png"></image><image id="N65822-img-24-T" class="internal" x="380" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/24T.png"></image><image id="N65828-img-25-T" class="internal" x="420" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/25T.png"></image><image id="N65834-img-25-T" class="internal" x="320" y="0" width="40" height="120" xlink:href="https://img.intercity.pl/grm/25T.png"></image><image id="N65840-img-29-T" class="internal" x="800" y="120" width="80" height="80" xlink:href="https://img.intercity.pl/grm/29T.png"></image><image id="N65846-img-29-T" class="internal" x="800" y="0" width="80" height="80" xlink:href="https://img.intercity.pl/grm/29T.png"></image><image id="N65852-img-39-B" class="internal" x="480" y="160" width="80" height="40" xlink:href="https://img.intercity.pl/grm/39B.png"></image><image id="N65858-img-29-T" class="internal" x="960" y="120" width="80" height="80" xlink:href="https://img.intercity.pl/grm/29T.png"></image><image id="N65864-img-28-T" class="internal" x="1000" y="0" width="40" height="80" xlink:href="https://img.intercity.pl/grm/28T.png"></image><image id="N65870-img-27-T" class="internal" x="1040" y="0" width="40" height="80" xlink:href="https://img.intercity.pl/grm/27T.png"></image><image id="N65876-img-29-T" class="internal" x="880" y="0" width="80" height="80" xlink:href="https://img.intercity.pl/grm/29T.png"></image><image id="N65882-img-21-B" class="internal" x="640" y="0" width="40" height="80" xlink:href="https://img.intercity.pl/grm/21B.png"></image><image id="N65888-img-21-B" class="internal" x="560" y="0" width="40" height="80" xlink:href="https://img.intercity.pl/grm/21B.png"></image><image id="N65894-img-21-B" class="internal" x="640" y="120" width="40" height="80" xlink:href="https://img.intercity.pl/grm/21B.png"></image><image id="N65900-img-21-B" class="internal" x="760" y="120" width="40" height="80" xlink:href="https://img.intercity.pl/grm/21B.png"></image><image id="N65906-img-21-B" class="internal" x="760" y="0" width="40" height="80" xlink:href="https://img.intercity.pl/grm/21B.png"></image><g data-class="" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Niedostepne "><image id="N65912-img-401" class="sign" x="40" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/401.png"></image><title>Toaleta</title></g><g data-class="" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Niedostepne "><image id="N65917-img-410" class="sign" x="80" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/410.png"></image><title>Wagon z miejscami dla osób na wózkach – z windą/rampą</title></g><g data-class="" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Niedostepne "><image id="N65922-img-411" class="sign" x="260" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/411.png"></image><title>Przedział konduktorski</title></g><g data-class="" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Niedostepne "><image id="N65927-img-402" class="sign" x="540" y="140" width="40" height="40" xlink:href="https://img.intercity.pl/grm/402.png"></image><title>Miejsce na duży bagaż</title></g><g data-class="" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Niedostepne "><image id="N65932-img-308" class="sign" x="900" y="140" width="40" height="40" xlink:href="https://img.intercity.pl/grm/308.png"></image><title>Możliwość przewozu rowerów w wagonie</title></g><g data-class="" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Niedostepne "><image id="N65937-img-401" class="sign" x="1020" y="20" width="40" height="40" xlink:href="https://img.intercity.pl/grm/401.png"></image><title>Toaleta</title></g><g id="N65548-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 15 klasa 2,  Wolne , niewybrane , Miejsce dla osoby na wózku"><image id="N65548-img-1-R" class="place" x="140" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65548-img-1-R-S2" class="special" x="140" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S2.png"/><text id="N65548-txt-1-R" class="seatNum" x="160" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">15</text><eic:special id="N65548-special-1-R" ref="2" pl="Miejsce dla osoby na wózku" en="Place for a person on a wheelchair" carriageCode="6" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S2">Miejsce dla osoby na wózku</eic:special><rect id="N65548-rect-1-R" width="40" height="40" x="140" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65548-title-1-R" class="place-title">Miejsce dla osoby na wózku, miejsce niewybrane</title></g><g id="N65555-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 11 klasa 2,  Wolne , niewybrane , Miejsce dla opiekuna osoby na wózku"><image id="N65555-img-1-R" class="place" x="140" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65555-img-1-R-S3" class="special" x="140" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S3.png"/><text id="N65555-txt-1-R" class="seatNum" x="160" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">11</text><eic:special id="N65555-special-1-R" ref="3" pl="Miejsce dla opiekuna osoby na wózku" en="Place for a carer of a person on a wheelchair" carriageCode="" sectionCode="" specialOffer="53" releaseTime="-999" iconCode="S3">Miejsce dla opiekuna osoby na wózku</eic:special><rect id="N65555-rect-1-R" width="40" height="40" x="140" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65555-title-1-R" class="place-title">Miejsce dla opiekuna osoby na wózku, miejsce niewybrane</title></g><g id="N65562-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 16 klasa 2,  Wolne , niewybrane , Miejsce dla opiekuna osoby na wózku"><image id="N65562-img-1-L" class="place" x="200" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65562-img-1-L-S3" class="special" x="200" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S3.png"/><text id="N65562-txt-1-L" class="seatNum" x="220" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">16</text><eic:special id="N65562-special-1-L" ref="3" pl="Miejsce dla opiekuna osoby na wózku" en="Place for a carer of a person on a wheelchair" carriageCode="" sectionCode="" specialOffer="53" releaseTime="-999" iconCode="S3">Miejsce dla opiekuna osoby na wózku</eic:special><rect id="N65562-rect-1-L" width="40" height="40" x="200" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65562-title-1-L" class="place-title">Miejsce dla opiekuna osoby na wózku, miejsce niewybrane</title></g><g id="N65569-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 12 klasa 2,  Wolne , niewybrane , Miejsce dla osoby na wózku"><image id="N65569-img-1-L" class="place" x="200" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65569-img-1-L-S2" class="special" x="200" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S2.png"/><text id="N65569-txt-1-L" class="seatNum" x="220" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">12</text><eic:special id="N65569-special-1-L" ref="2" pl="Miejsce dla osoby na wózku" en="Place for a person on a wheelchair" carriageCode="6" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S2">Miejsce dla osoby na wózku</eic:special><rect id="N65569-rect-1-L" width="40" height="40" x="200" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65569-title-1-L" class="place-title">Miejsce dla osoby na wózku, miejsce niewybrane</title></g><g id="N65576-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 25 klasa 2,  okno,  Niedostepne , niewybrane "><image id="N65576-img-1-R" class="place" x="320" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3R.png" status="3"></image><text id="N65576-txt-1-R" class="seatNum" x="340" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">25</text><rect id="N65576-rect-1-R" width="40" height="40" x="320" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65576-title-1-R" class="place-title">Miejsce niedostępne</title></g><g id="N65583-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 23 klasa 2,  ?rodek,  Niedostepne , niewybrane "><image id="N65583-img-1-R" class="place" x="320" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3R.png" status="3"></image><text id="N65583-txt-1-R" class="seatNum" x="340" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">23</text><rect id="N65583-rect-1-R" width="40" height="40" x="320" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65583-title-1-R" class="place-title">Miejsce niedostępne</title></g><g id="N65590-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 21 klasa 2,  korytarz,  Niedostepne , niewybrane "><image id="N65590-img-1-R" class="place" x="320" y="80" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3R.png" status="3"></image><text id="N65590-txt-1-R" class="seatNum" x="340" y="104" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">21</text><rect id="N65590-rect-1-R" width="40" height="40" x="320" y="80" class="place-rect" fill-opacity="0"></rect><title id="N65590-title-1-R" class="place-title">Miejsce niedostępne</title></g><g id="N65597-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 26 klasa 2,  okno,  Niedostepne , niewybrane "><image id="N65597-img-1-L" class="place" x="380" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3L.png" status="3"></image><text id="N65597-txt-1-L" class="seatNum" x="400" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">26</text><rect id="N65597-rect-1-L" width="40" height="40" x="380" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65597-title-1-L" class="place-title">Miejsce niedostępne</title></g><g id="N65604-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 24 klasa 2,  ?rodek,  Niedostepne , niewybrane "><image id="N65604-img-1-L" class="place" x="380" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3L.png" status="3"></image><text id="N65604-txt-1-L" class="seatNum" x="400" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">24</text><rect id="N65604-rect-1-L" width="40" height="40" x="380" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65604-title-1-L" class="place-title">Miejsce niedostępne</title></g><g id="N65611-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 22 klasa 2,  korytarz,  Niedostepne , niewybrane "><image id="N65611-img-1-L" class="place" x="380" y="80" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3L.png" status="3"></image><text id="N65611-txt-1-L" class="seatNum" x="400" y="104" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">22</text><rect id="N65611-rect-1-L" width="40" height="40" x="380" y="80" class="place-rect" fill-opacity="0"></rect><title id="N65611-title-1-L" class="place-title">Miejsce niedostępne</title></g><g id="N65618-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 35 klasa 2,  okno,  Wolne , niewybrane , Przedział dla osoby z dzieckiem do lat 6"><image id="N65618-img-1-R" class="place" x="420" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65618-img-1-R-S6" class="special" x="420" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S6.png"/><text id="N65618-txt-1-R" class="seatNum" x="440" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">35</text><eic:special id="N65618-special-1-R" ref="6" pl="Przedział dla osoby z dzieckiem do lat 6" en="Place for travelers with a child under 6 years" carriageCode="" sectionCode="3" specialOffer="" releaseTime="-999" iconCode="S6">Przedział dla osoby z dzieckiem do lat 6</eic:special><rect id="N65618-rect-1-R" width="40" height="40" x="420" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65618-title-1-R" class="place-title">Przedział dla osoby z dzieckiem do lat 6, miejsce niewybrane</title></g><g id="N65625-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 33 klasa 2,  ?rodek,  Wolne , niewybrane , Przedział dla osoby z dzieckiem do lat 6"><image id="N65625-img-1-R" class="place" x="420" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65625-img-1-R-S6" class="special" x="420" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S6.png"/><text id="N65625-txt-1-R" class="seatNum" x="440" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">33</text><eic:special id="N65625-special-1-R" ref="6" pl="Przedział dla osoby z dzieckiem do lat 6" en="Place for travelers with a child under 6 years" carriageCode="" sectionCode="3" specialOffer="" releaseTime="-999" iconCode="S6">Przedział dla osoby z dzieckiem do lat 6</eic:special><rect id="N65625-rect-1-R" width="40" height="40" x="420" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65625-title-1-R" class="place-title">Przedział dla osoby z dzieckiem do lat 6, miejsce niewybrane</title></g><g id="N65632-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 31 klasa 2,  korytarz,  Wolne , niewybrane , Przedział dla osoby z dzieckiem do lat 6"><image id="N65632-img-1-R" class="place" x="420" y="80" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65632-img-1-R-S6" class="special" x="420" y="80" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S6.png"/><text id="N65632-txt-1-R" class="seatNum" x="440" y="104" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">31</text><eic:special id="N65632-special-1-R" ref="6" pl="Przedział dla osoby z dzieckiem do lat 6" en="Place for travelers with a child under 6 years" carriageCode="" sectionCode="3" specialOffer="" releaseTime="-999" iconCode="S6">Przedział dla osoby z dzieckiem do lat 6</eic:special><rect id="N65632-rect-1-R" width="40" height="40" x="420" y="80" class="place-rect" fill-opacity="0"></rect><title id="N65632-title-1-R" class="place-title">Przedział dla osoby z dzieckiem do lat 6, miejsce niewybrane</title></g><g id="N65639-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 36 klasa 2,  okno,  Wolne , niewybrane , Przedział dla osoby z dzieckiem do lat 6"><image id="N65639-img-1-L" class="place" x="480" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65639-img-1-L-S6" class="special" x="480" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S6.png"/><text id="N65639-txt-1-L" class="seatNum" x="500" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">36</text><eic:special id="N65639-special-1-L" ref="6" pl="Przedział dla osoby z dzieckiem do lat 6" en="Place for travelers with a child under 6 years" carriageCode="" sectionCode="3" specialOffer="" releaseTime="-999" iconCode="S6">Przedział dla osoby z dzieckiem do lat 6</eic:special><rect id="N65639-rect-1-L" width="40" height="40" x="480" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65639-title-1-L" class="place-title">Przedział dla osoby z dzieckiem do lat 6, miejsce niewybrane</title></g><g id="N65646-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 34 klasa 2,  ?rodek,  Wolne , niewybrane , Przedział dla osoby z dzieckiem do lat 6"><image id="N65646-img-1-L" class="place" x="480" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65646-img-1-L-S6" class="special" x="480" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S6.png"/><text id="N65646-txt-1-L" class="seatNum" x="500" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">34</text><eic:special id="N65646-special-1-L" ref="6" pl="Przedział dla osoby z dzieckiem do lat 6" en="Place for travelers with a child under 6 years" carriageCode="" sectionCode="3" specialOffer="" releaseTime="-999" iconCode="S6">Przedział dla osoby z dzieckiem do lat 6</eic:special><rect id="N65646-rect-1-L" width="40" height="40" x="480" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65646-title-1-L" class="place-title">Przedział dla osoby z dzieckiem do lat 6, miejsce niewybrane</title></g><g id="N65653-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 32 klasa 2,  korytarz,  Wolne , niewybrane , Przedział dla osoby z dzieckiem do lat 6"><image id="N65653-img-1-L" class="place" x="480" y="80" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65653-img-1-L-S6" class="special" x="480" y="80" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S6.png"/><text id="N65653-txt-1-L" class="seatNum" x="500" y="104" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">32</text><eic:special id="N65653-special-1-L" ref="6" pl="Przedział dla osoby z dzieckiem do lat 6" en="Place for travelers with a child under 6 years" carriageCode="" sectionCode="3" specialOffer="" releaseTime="-999" iconCode="S6">Przedział dla osoby z dzieckiem do lat 6</eic:special><rect id="N65653-rect-1-L" width="40" height="40" x="480" y="80" class="place-rect" fill-opacity="0"></rect><title id="N65653-title-1-L" class="place-title">Przedział dla osoby z dzieckiem do lat 6, miejsce niewybrane</title></g><g id="N65660-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 45 klasa 2,  okno,  Wolne , niewybrane , Miejsce dla OzN – nie na wózku (4)"><image id="N65660-img-1-R" class="place" x="520" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65660-img-1-R-S5" class="special" x="520" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S5.png"/><text id="N65660-txt-1-R" class="seatNum" x="540" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">45</text><eic:special id="N65660-special-1-R" ref="5" pl="Miejsce dla OzN – nie na wózku (4)" en="Place for PRM (not EIP)" carriageCode="" sectionCode="4" specialOffer="" releaseTime="24" iconCode="S5">Miejsce dla OzN – nie na wózku (4)</eic:special><rect id="N65660-rect-1-R" width="40" height="40" x="520" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65660-title-1-R" class="place-title">Miejsce dla OzN – nie na wózku (4), miejsce niewybrane</title></g><g id="N65667-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 47 klasa 2,  korytarz,  Wolne , niewybrane , Miejsce dla OzN – nie na wózku (4)"><image id="N65667-img-1-R" class="place" x="520" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65667-img-1-R-S5" class="special" x="520" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S5.png"/><text id="N65667-txt-1-R" class="seatNum" x="540" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">47</text><eic:special id="N65667-special-1-R" ref="5" pl="Miejsce dla OzN – nie na wózku (4)" en="Place for PRM (not EIP)" carriageCode="" sectionCode="4" specialOffer="" releaseTime="24" iconCode="S5">Miejsce dla OzN – nie na wózku (4)</eic:special><rect id="N65667-rect-1-R" width="40" height="40" x="520" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65667-title-1-R" class="place-title">Miejsce dla OzN – nie na wózku (4), miejsce niewybrane</title></g><g id="N65674-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 55 klasa 2,  okno,  Wolne , niewybrane , Miejsce dla OzN – nie na wózku (4)"><image id="N65674-img-1-R" class="place" x="600" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65674-img-1-R-S5" class="special" x="600" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S5.png"/><text id="N65674-txt-1-R" class="seatNum" x="620" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">55</text><eic:special id="N65674-special-1-R" ref="5" pl="Miejsce dla OzN – nie na wózku (4)" en="Place for PRM (not EIP)" carriageCode="" sectionCode="4" specialOffer="" releaseTime="24" iconCode="S5">Miejsce dla OzN – nie na wózku (4)</eic:special><rect id="N65674-rect-1-R" width="40" height="40" x="600" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65674-title-1-R" class="place-title">Miejsce dla OzN – nie na wózku (4), miejsce niewybrane</title></g><g id="N65681-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 57 klasa 2,  korytarz,  Wolne , niewybrane , Miejsce dla OzN – nie na wózku (4)"><image id="N65681-img-1-R" class="place" x="600" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65681-img-1-R-S5" class="special" x="600" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S5.png"/><text id="N65681-txt-1-R" class="seatNum" x="620" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">57</text><eic:special id="N65681-special-1-R" ref="5" pl="Miejsce dla OzN – nie na wózku (4)" en="Place for PRM (not EIP)" carriageCode="" sectionCode="4" specialOffer="" releaseTime="24" iconCode="S5">Miejsce dla OzN – nie na wózku (4)</eic:special><rect id="N65681-rect-1-R" width="40" height="40" x="600" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65681-title-1-R" class="place-title">Miejsce dla OzN – nie na wózku (4), miejsce niewybrane</title></g><g id="N65688-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 53 klasa 2,  Niedostepne , niewybrane "><image id="N65688-img-1-R" class="place" x="600" y="120" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3R.png" status="3"></image><text id="N65688-txt-1-R" class="seatNum" x="620" y="144" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">53</text><rect id="N65688-rect-1-R" width="40" height="40" x="600" y="120" class="place-rect" fill-opacity="0"></rect><title id="N65688-title-1-R" class="place-title">Miejsce niedostępne</title></g><g id="N65695-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 51 klasa 2,  Wolne , niewybrane "><image id="N65695-img-1-R" class="place" x="600" y="160" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><text id="N65695-txt-1-R" class="seatNum" x="620" y="184" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" data-class="class 2">51</text><rect id="N65695-rect-1-R" width="40" height="40" x="600" y="160" class="place-rect" fill-opacity="0"></rect><title id="N65695-title-1-R" class="place-title">Miejsce niewybrane</title></g><g id="N65702-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 56 klasa 2,  Wolne , niewybrane "><image id="N65702-img-1-L" class="place" x="680" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><text id="N65702-txt-1-L" class="seatNum" x="700" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" data-class="class 2">56</text><rect id="N65702-rect-1-L" width="40" height="40" x="680" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65702-title-1-L" class="place-title">Miejsce niewybrane</title></g><g id="N65709-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 54 klasa 2,  Wolne , niewybrane "><image id="N65709-img-1-L" class="place" x="680" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><text id="N65709-txt-1-L" class="seatNum" x="700" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" data-class="class 2">54</text><rect id="N65709-rect-1-L" width="40" height="40" x="680" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65709-title-1-L" class="place-title">Miejsce niewybrane</title></g><g id="N65716-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 58 klasa 2,  Niedostepne , niewybrane "><image id="N65716-img-1-L" class="place" x="680" y="120" width="40" height="40" xlink:href="https://img.intercity.pl/grm/3L.png" status="3"></image><text id="N65716-txt-1-L" class="seatNum" x="700" y="144" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" fill="black" data-class="class 2">58</text><rect id="N65716-rect-1-L" width="40" height="40" x="680" y="120" class="place-rect" fill-opacity="0"></rect><title id="N65716-title-1-L" class="place-title">Miejsce niedostępne</title></g><g id="N65723-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 52 klasa 2,  Wolne , niewybrane "><image id="N65723-img-1-L" class="place" x="680" y="160" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><text id="N65723-txt-1-L" class="seatNum" x="700" y="184" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" data-class="class 2">52</text><rect id="N65723-rect-1-L" width="40" height="40" x="680" y="160" class="place-rect" fill-opacity="0"></rect><title id="N65723-title-1-L" class="place-title">Miejsce niewybrane</title></g><g id="N65730-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 65 klasa 2,  Wolne , niewybrane , Miejsce dla osoby z rowerem"><image id="N65730-img-1-R" class="place" x="720" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65730-img-1-R-S1" class="special" x="720" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S1.png"/><text id="N65730-txt-1-R" class="seatNum" x="740" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">65</text><eic:special id="N65730-special-1-R" ref="1" pl="Miejsce dla osoby z rowerem" en="Place for a person with a bicycle" carriageCode="24" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S1">Miejsce dla osoby z rowerem</eic:special><rect id="N65730-rect-1-R" width="40" height="40" x="720" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65730-title-1-R" class="place-title">Miejsce dla osoby z rowerem, miejsce niewybrane</title></g><g id="N65737-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 67 klasa 2,  Wolne , niewybrane , Miejsce dla osoby z rowerem"><image id="N65737-img-1-R" class="place" x="720" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65737-img-1-R-S1" class="special" x="720" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S1.png"/><text id="N65737-txt-1-R" class="seatNum" x="740" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">67</text><eic:special id="N65737-special-1-R" ref="1" pl="Miejsce dla osoby z rowerem" en="Place for a person with a bicycle" carriageCode="24" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S1">Miejsce dla osoby z rowerem</eic:special><rect id="N65737-rect-1-R" width="40" height="40" x="720" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65737-title-1-R" class="place-title">Miejsce dla osoby z rowerem, miejsce niewybrane</title></g><g id="N65744-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 63 klasa 2,  Wolne , niewybrane , Miejsce dla osoby z rowerem"><image id="N65744-img-1-R" class="place" x="720" y="120" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65744-img-1-R-S1" class="special" x="720" y="120" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S1.png"/><text id="N65744-txt-1-R" class="seatNum" x="740" y="144" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">63</text><eic:special id="N65744-special-1-R" ref="1" pl="Miejsce dla osoby z rowerem" en="Place for a person with a bicycle" carriageCode="24" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S1">Miejsce dla osoby z rowerem</eic:special><rect id="N65744-rect-1-R" width="40" height="40" x="720" y="120" class="place-rect" fill-opacity="0"></rect><title id="N65744-title-1-R" class="place-title">Miejsce dla osoby z rowerem, miejsce niewybrane</title></g><g id="N65751-grp-1-R" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 61 klasa 2,  Wolne , niewybrane , Miejsce dla osoby z rowerem"><image id="N65751-img-1-R" class="place" x="720" y="160" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1R.png" status="1"></image><image id="N65751-img-1-R-S1" class="special" x="720" y="160" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S1.png"/><text id="N65751-txt-1-R" class="seatNum" x="740" y="184" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">61</text><eic:special id="N65751-special-1-R" ref="1" pl="Miejsce dla osoby z rowerem" en="Place for a person with a bicycle" carriageCode="24" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S1">Miejsce dla osoby z rowerem</eic:special><rect id="N65751-rect-1-R" width="40" height="40" x="720" y="160" class="place-rect" fill-opacity="0"></rect><title id="N65751-title-1-R" class="place-title">Miejsce dla osoby z rowerem, miejsce niewybrane</title></g><g id="N65758-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 66 klasa 2,  Wolne , niewybrane "><image id="N65758-img-1-L" class="place" x="800" y="0" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><text id="N65758-txt-1-L" class="seatNum" x="820" y="24" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" data-class="class 2">66</text><rect id="N65758-rect-1-L" width="40" height="40" x="800" y="0" class="place-rect" fill-opacity="0"></rect><title id="N65758-title-1-L" class="place-title">Miejsce niewybrane</title></g><g id="N65765-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 64 klasa 2,  Wolne , niewybrane "><image id="N65765-img-1-L" class="place" x="800" y="40" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><text id="N65765-txt-1-L" class="seatNum" x="820" y="64" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" data-class="class 2">64</text><rect id="N65765-rect-1-L" width="40" height="40" x="800" y="40" class="place-rect" fill-opacity="0"></rect><title id="N65765-title-1-L" class="place-title">Miejsce niewybrane</title></g><g id="N65772-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 68 klasa 2,  Wolne , niewybrane , Miejsce dla osoby z rowerem"><image id="N65772-img-1-L" class="place" x="800" y="120" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65772-img-1-L-S1" class="special" x="800" y="120" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S1.png"/><text id="N65772-txt-1-L" class="seatNum" x="820" y="144" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">68</text><eic:special id="N65772-special-1-L" ref="1" pl="Miejsce dla osoby z rowerem" en="Place for a person with a bicycle" carriageCode="24" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S1">Miejsce dla osoby z rowerem</eic:special><rect id="N65772-rect-1-L" width="40" height="40" x="800" y="120" class="place-rect" fill-opacity="0"></rect><title id="N65772-title-1-L" class="place-title">Miejsce dla osoby z rowerem, miejsce niewybrane</title></g><g id="N65779-grp-1-L" data-class="second class" aria-selected="false" aria-live="polite" aria-atomic="true" aria-label="Miejsce 62 klasa 2,  Wolne , niewybrane , Miejsce dla osoby z rowerem"><image id="N65779-img-1-L" class="place" x="800" y="160" width="40" height="40" xlink:href="https://img.intercity.pl/grm/1L.png" status="1"></image><image id="N65779-img-1-L-S1" class="special" x="800" y="160" width="40" height="40" xlink:href="https://img.intercity.pl/grm/S1.png"/><text id="N65779-txt-1-L" class="seatNum" x="820" y="184" style="font-family:sans-serif; font-size:8pt; text-anchor:middle; fill:#000;" opacity="0" data-class="class 2">62</text><eic:special id="N65779-special-1-L" ref="1" pl="Miejsce dla osoby z rowerem" en="Place for a person with a bicycle" carriageCode="24" sectionCode="" specialOffer="" releaseTime="-999" iconCode="S1">Miejsce dla osoby z rowerem</eic:special><rect id="N65779-rect-1-L" width="40" height="40" x="800" y="160" class="place-rect" fill-opacity="0"></rect><title id="N65779-title-1-L" class="place-title">Miejsce dla osoby z rowerem, miejsce niewybrane</title></g><script type="text/javascript">
+                
+                var refreshSeatOverlays = function () {};
+
+                function normalizeSelectionLabel(label) {
+                    if (!label) {
+                        return label;
+                    }
+                    return label.replace(/nie+niewybrane/g, 'niewybrane');
+                }
+
+                function applySelectionLabel(label, isSelected) {
+                    var normalized = normalizeSelectionLabel(label);
+                    if (isSelected) {
+                        return /\bniewybrane\b/.test(normalized)
+                            ? normalized.replace(/\bniewybrane\b/, 'wybrane')
+                            : normalized;
+                    }
+                    return /\bwybrane\b/.test(normalized)
+                        ? normalized.replace(/\bwybrane\b/, 'niewybrane')
+                        : normalized;
+                }
+
+                var SVGPlaces = (function () {
+
+                    var svgLastPlace     = 'undefined';
+                    var svgLastType      = 'undefined';
+                    var svgLastDirection = 'undefined';
+                    var imgServerUrl     = 'https://img.intercity.pl/grm/';
+
+                    /* dostępne miejsce */
+                    var p1Img = {
+                        'R': imgServerUrl + '1R.png',
+                        'L': imgServerUrl + '1L.png',
+                        'U': imgServerUrl + '1U.png',
+                        'B': imgServerUrl + '1B.png'
+                    };
+
+                    /* wybrane miejsce */
+                    var chosenImg = {
+                        'R': imgServerUrl + '2R.png',
+                        'L': imgServerUrl + '2L.png',
+                        'U': imgServerUrl + '2U.png',
+                        'B': imgServerUrl + '2B.png'
+                    };
+
+                    /* niedostępne miejsce */
+                    var unavailableImg = {
+                        'R': imgServerUrl + '3R.png',
+                        'L': imgServerUrl + '3L.png',
+                        'U': imgServerUrl + '3U.png',
+                        'B': imgServerUrl + '3B.png'
+                    };
+
+                    /* miejsce dla parlamentarzysty */
+                    var poselImg = {
+                        'R': imgServerUrl + '4R.png',
+                        'L': imgServerUrl + '4L.png',
+                        'U': imgServerUrl + '4U.png',
+                        'B': imgServerUrl + '4B.png'
+                    };
+
+                    /* zmienne dla obsługi za pomocą klawiatury */
+                    var availableForSelection = [].slice.call(document.getElementsByClassName('place')).filter(function (place) {
+                        return (place.getAttributeNS(null, 'status') === '1' || place.getAttributeNS(null, 'status') === '4');
+                    });
+
+                    var currentSelection = 0;
+                    var previousSelection = 0;
+
+                    if (availableForSelection.length &gt; 0) {
+                        currentSelection = availableForSelection.length - 1;
+                    } else {
+                        currentSelection = 0;
+                        previousSelection = 0;
+                    }
+
+                    /* callbacks */
+                    var selectPlaceCallback;
+                    var initPlaceCallback;
+
+                    var toggleOff = function (targetElement, duration) {
+                        if (typeof targetElement.animate === 'function') {
+                            targetElement.animate( [{opacity: 1}, {opacity: 0}], {duration: duration, fill: 'forwards'} );
+                        } else {
+                            targetElement.setAttribute('opacity', 0);
+                        }
+                    };
+
+                    var toggleOn = function (targetElement, duration) {
+                        if (typeof targetElement.animate === 'function') {
+                            targetElement.animate( [{opacity: 0}, {opacity: 1}], {duration: duration, fill: 'forwards'} );
+                        } else {
+                            targetElement.setAttribute('opacity', 1);
+                        }
+                    };
+
+                    var getPlaceImage = function (type, direction, status, isParliament) {
+                        switch (status) {
+                            case '1':
+                                return isParliament ? poselImg[direction] : p1Img[direction];
+                            case '2':
+                            case '3':
+                                return unavailableImg[direction];
+                            case '4':
+                                return chosenImg[direction];
+                            default:
+                                return p1Img[direction];
+                        }
+                    };
+
+                    var setCurrent = function (placeIndex) {
+                        if (placeIndex &gt; -1 &amp;&amp; placeIndex &lt; availableForSelection.length) {
+                            previousSelection = currentSelection;
+                            currentSelection = placeIndex;
+                            availableForSelection[previousSelection].setAttribute('opacity', '1');
+                            availableForSelection[currentSelection].setAttribute('opacity', '0.5');
+                        }
+                    };
+
+                    var svgTakePlace = function (tokens) {
+                        if( typeof tokens !== 'undefined' &amp;&amp; tokens[ 2 ] === '1' ) {
+                            var svgPlace = document.getElementById( tokens[ 0 ] + '-img-' + tokens[ 2 ] + '-' + tokens[ 3 ] );
+                            var svgPlaceNumber = document.getElementById( tokens[ 0 ] + '-txt-' + tokens[ 2 ] + '-' + tokens[ 3 ] ).textContent;
+                            var svgSpecial = document.getElementById( tokens[ 0 ] + '-special-' + tokens[ 2 ] + '-' + tokens[ 3 ] );
+                            var status = svgPlace.getAttributeNS(null, 'status');
+                            if ( status === '1' || status === '4' ) {
+                                if (typeof selectPlaceCallback !== 'undefined') {
+                                    selectPlaceCallback.call(this, tokens, svgPlace, svgPlaceNumber, svgSpecial);
+                                }
+                            }
+                        }
+                    };
+
+                    var svgInitPlace = function (tokens) {
+                        if( typeof tokens !== 'undefined' &amp;&amp; tokens[ 2 ] === '1' ) {
+                            var svgPlace = document.getElementById( tokens[ 0 ] + '-img-' + tokens[ 2 ] + '-' + tokens[ 3 ] );
+                            var svgPlaceNumber = document.getElementById( tokens[ 0 ] + '-txt-' + tokens[ 2 ] + '-' + tokens[ 3 ] ).textContent;
+                            var svgSpecial = document.getElementById( tokens[ 0 ] + '-special-' + tokens[ 2 ] + '-' + tokens[ 3 ] );
+                            var status = svgPlace.getAttributeNS(null, 'status');
+                            if ( status === '1' || status === '4' ) {
+                                if (typeof initPlaceCallback !== 'undefined') {
+                                    initPlaceCallback.call(this, tokens, svgPlace, svgPlaceNumber, svgSpecial);
+                                }
+                            }
+                        }
+                    };
+
+                    var findTokensForPlaceNumber = function (placeNumber) {
+                        var resultTokens;
+                        var foundPlaceNumber;
+                        for (var i = 0; i &lt; availableForSelection.length; i++) {
+                            if (typeof availableForSelection[i] !== 'undefined') {
+                                var tokens = availableForSelection[i].id.split('-');
+                                foundPlaceNumber = document.getElementById( tokens[ 0 ] + '-txt-' + tokens[ 2 ] + '-' + tokens[ 3 ] ).textContent;
+                                if (parseInt(foundPlaceNumber) === parseInt(placeNumber)) {
+                                    resultTokens = tokens;
+                                    break;
+                                }
+                            }
+                        }
+                        return resultTokens;
+                    };
+
+                    return {
+                        getChosenImg : function(direction) {
+                            return chosenImg[direction];
+                        },
+
+                        setOnSelectPlace : function(callback) {
+                            selectPlaceCallback = callback;
+                        },
+
+                        setOnInitPlace : function(callback) {
+                            initPlaceCallback = callback;
+                        },
+
+                        switchSelectedPlace : function (tokens, svgPlace, preserveLast) {
+                        if (svgPlace) {
+                            var title = document.getElementById(tokens[0] + '-title-' + tokens[2] + '-' + tokens[3]);
+                            var isParliament = svgPlace.getAttributeNS(null, 'parliament') === 'true';
+                            switch (svgPlace.getAttributeNS(null, 'status')) {
+
+                                    case '1':
+                                        if (preserveLast &amp;&amp; svgLastPlace !== 'undefined') {
+                                            svgPlace.parentNode.setAttribute('aria-label', applySelectionLabel(svgPlace.parentNode.getAttribute('aria-label'), false))
+                                            if (title) {
+                                               title.textContent = applySelectionLabel(title.textContent, false);
+                                            }
+                                            svgPlace.parentNode.setAttribute('aria-selected', false)
+                                            svgLastPlace.setAttribute('status', '1');
+                                            svgLastPlace.setAttribute('xlink:href', getPlaceImage(svgLastType, svgLastDirection, '1', isParliament));
+                                        }
+                                        svgPlace.parentNode.setAttribute('aria-label', applySelectionLabel(svgPlace.parentNode.getAttribute('aria-label'), true))
+                                            if (title) {
+                                               title.textContent = applySelectionLabel(title.textContent, true);
+                                            }
+                                        svgPlace.parentNode.setAttribute('aria-selected', true)
+                                        svgPlace.setAttribute('status', '4');
+                                        svgPlace.setAttribute('xlink:href', getPlaceImage(tokens[ 2 ], tokens[ 3 ], '4', isParliament));
+                                        refreshSeatOverlays();
+                                        break;
+                                    case '4':
+                                        svgPlace.parentNode.setAttribute('aria-label', applySelectionLabel(svgPlace.parentNode.getAttribute('aria-label'), false))
+                                            if (title) {
+                                               title.textContent = applySelectionLabel(title.textContent, false);
+                                            }
+                                        svgPlace.parentNode.setAttribute('aria-selected', false)
+                                        svgPlace.setAttribute('status', '1');
+                                        svgPlace.setAttribute('xlink:href', getPlaceImage(tokens[ 2 ], tokens[ 3 ], '1', isParliament));
+                                        refreshSeatOverlays();
+                                        break;
+                                }
+
+                                if (preserveLast) {
+                                    svgLastPlace = svgPlace;
+                                    svgLastType = tokens[ 2 ];
+                                    svgLastDirection = tokens[ 3 ];
+                                }
+                            }
+                        },
+
+                        /* mouse */
+
+                        takePlace : function( event ) {
+                            event = event || window.event;
+                            var element;
+                            if (typeof event.srcElement !== 'undefined') {
+                                element = event.srcElement;
+                            } else {
+                                element = event.target;
+                            }
+
+                            var tokens = element.getAttributeNS(null, 'id').split( '-' );
+                            svgTakePlace(tokens);
+                        },
+
+                        hideSpecialLayer : function( event ) {
+                            event = event || window.event;
+                            var element;
+                            if (typeof event.srcElement !== 'undefined') {
+                                element = event.srcElement;
+                            } else {
+                                element = event.target;
+                            }
+                            targetElement = element.parentNode;
+                            specialSeatImage = targetElement.querySelectorAll('.special');
+                            specialText = targetElement.querySelectorAll('.seatNum');
+                            toggleOff(specialSeatImage.item(0), 150);
+                            toggleOn(specialText.item(0), 150);
+                        },
+
+                        showSpecialLayer : function ( event ) {
+                            event = event || window.event;
+                            var element;
+                            if (typeof event.srcElement !== 'undefined') {
+                                element = event.srcElement;
+                            } else {
+                                element = event.target;
+                            }
+                            targetElement = element.parentNode;
+                            specialSeatImage = targetElement.querySelectorAll('.special');
+                            specialText = targetElement.querySelectorAll('.seatNum');
+                            toggleOff(specialText.item(0), 150);
+                            toggleOn(specialSeatImage.item(0), 150);
+                        },
+
+                        /* keyboard */
+
+                        slidePlace: function (forward) {
+                            placesCounter = availableForSelection.length;
+                            if (forward) {
+                                calculated_index = (currentSelection + 1) % placesCounter;
+                            } else {
+                                calculated_index = (((currentSelection - 1) % placesCounter) + placesCounter) % placesCounter;
+                        }
+                            setCurrent(calculated_index);
+                        },
+
+                        takeCurrentPlace: function () {
+                            var tokens = availableForSelection[currentSelection].id.split('-');
+                            svgTakePlace(tokens);
+                        },
+
+                        takePlaceForNumber: function (placeNumber) {
+                            var tokens = findTokensForPlaceNumber(placeNumber);
+                            svgTakePlace(tokens);
+                        },
+
+                        /* initial place */
+
+                        initPlace: function (placeNumber) {
+                            var tokens = findTokensForPlaceNumber(placeNumber);
+                            svgInitPlace(tokens);
+                        },
+
+                        /* mark place as unavailable */
+
+                        markPlaceAsUnavailable: function (placeNumber) {
+                            var tokens = findTokensForPlaceNumber(placeNumber);
+                            if (tokens) {
+                                var svgPlace = document.getElementById( tokens[ 0 ] + '-img-' + tokens[ 2 ] + '-' + tokens[ 3 ] );
+                                var isParliament = svgPlace.getAttributeNS(null, 'parliament') === 'true';
+                                var svgGroup = svgPlace.parentNode;
+                                if (svgPlace &amp;&amp; svgGroup) {
+                                    svgPlace.setAttribute('status', '3');
+                                    svgPlace.setAttribute('xlink:href', getPlaceImage(tokens[ 2 ], tokens[ 3 ], '3', isParliament));
+                                    refreshSeatOverlays();
+                                }
+                            }
+                        },
+
+                        /* mark place as available */
+
+                        markPlaceAsAvailable: function (placeNumber) {
+                            var tokens = findTokensForPlaceNumber(placeNumber);
+                            if (tokens) {
+                                var svgPlace = document.getElementById( tokens[ 0 ] + '-img-' + tokens[ 2 ] + '-' + tokens[ 3 ] );
+                                var isParliament = svgPlace.getAttributeNS(null, 'parliament') === 'true';
+                                var svgGroup = svgPlace.parentNode;
+                                if (svgPlace &amp;&amp; svgGroup) {
+                                    svgPlace.setAttribute('status', '1');
+                                    svgPlace.setAttribute('xlink:href', getPlaceImage(tokens[ 2 ], tokens[ 3 ], '1', isParliament));
+                                    refreshSeatOverlays();
+                                }
+                            }
+                        }
+
+                    };
+                })();
+
+                /* default callbacks */
+                SVGPlaces.setOnSelectPlace(function (tokens, svgPlace, svgPlaceNumber, svgSpecial) { SVGPlaces.switchSelectedPlace(tokens, svgPlace, false) });
+                SVGPlaces.setOnInitPlace(function (tokens, svgPlace, svgPlaceNumber, svgSpecial) { SVGPlaces.switchSelectedPlace(tokens, svgPlace, false) });
+
+                /* events assignment on SVG rects (invoked by HTML overlay buttons) */
+                var elementsPlace = document.getElementsByClassName('place-rect');
+                for (var i = 0; i &lt; elementsPlace.length; i++) {
+                    elementsPlace[i].addEventListener('click', SVGPlaces.takePlace, false);
+                    specialElements = elementsPlace[i].parentNode.getElementsByTagName('eic:special');
+                    if (specialElements.length &gt; 0 &amp;&amp; (parseInt(specialElements[0].getAttributeNS(null, 'ref')) &lt;= 8)
+                      &amp;&amp; specialElements[0].parentNode.querySelectorAll('.special').length &gt; 0) {
+                        elementsPlace[i].addEventListener('mouseover', SVGPlaces.hideSpecialLayer, false);
+                        elementsPlace[i].addEventListener('mouseout', SVGPlaces.showSpecialLayer, false);
+                    }
+                }
+
+            
+            </script></svg>

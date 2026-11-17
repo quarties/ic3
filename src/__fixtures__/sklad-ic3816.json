@@ -1,0 +1,64 @@
+{
+  "pojazdTyp": "EU160",
+  "pojazdNazwa": "GWAREK",
+  "wagony": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "wagonyUdogodnienia": {
+    "11": [
+      "301"
+    ],
+    "12": [
+      "302"
+    ],
+    "13": [
+      "302",
+      "303",
+      "304",
+      "306",
+      "307",
+      "309"
+    ],
+    "14": [
+      "302"
+    ],
+    "15": [
+      "302"
+    ],
+    "16": [
+      "302",
+      "309"
+    ]
+  },
+  "wagonyNiedostepne": [],
+  "klasa0": [],
+  "klasa1": [
+    11
+  ],
+  "klasa2": [
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "kierunekJazdy": -1,
+  "wagonySchemat": {
+    "11": "2022,WITH_COMPARTMENTS",
+    "12": "1070,WITH_COMPARTMENTS",
+    "13": "2124,MIXED",
+    "14": "1356,WITHOUT_COMPARTMENTS",
+    "15": "2210,WITHOUT_COMPARTMENTS",
+    "16": "2220,WITHOUT_COMPARTMENTS"
+  },
+  "klasaDomyslnyWagon": {
+    "1": 11,
+    "2": 12
+  },
+  "zmieniaKierunek": false
+}

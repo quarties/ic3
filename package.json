@@ -1,0 +1,26 @@
+{
+  "name": "ic3",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "IC3: browser extension that shows free seat counts on the ebilet.intercity.pl connection list.",
+  "license": "MIT",
+  "packageManager": "bun@1.3.11",
+  "scripts": {
+    "build": "bun scripts/build.ts",
+    "watch": "bun scripts/build.ts --watch",
+    "test": "bun test",
+    "typecheck": "tsc",
+    "lint": "bun run build && web-ext lint --source-dir dist/firefox",
+    "check": "bun run typecheck && bun test && bun run lint",
+    "package": "bun run build && bun scripts/package.ts",
+    "start:firefox": "bun run build firefox && web-ext run --source-dir dist/firefox --target firefox-desktop --start-url https://ebilet.intercity.pl/",
+    "start:chrome": "bun run build chrome && web-ext run --source-dir dist/chrome --target chromium --start-url https://ebilet.intercity.pl/"
+  },
+  "devDependencies": {
+    "@happy-dom/global-registrator": "^21.0.4",
+    "@types/bun": "^1.3.0",
+    "typescript": "^7.0.2",
+    "web-ext": "^10.8.0"
+  }
+}

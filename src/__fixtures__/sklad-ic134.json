@@ -1,0 +1,104 @@
+{
+  "pojazdTyp": "EU160",
+  "pojazdNazwa": "WYCZÓŁKOWSKI 134 VIA REGIA",
+  "wagony": [
+    279,
+    278,
+    277,
+    276,
+    275,
+    274,
+    273,
+    272,
+    270,
+    269,
+    268,
+    267
+  ],
+  "wagonyUdogodnienia": {
+    "267": [
+      "302"
+    ],
+    "268": [
+      "302"
+    ],
+    "269": [
+      "302"
+    ],
+    "270": [
+      "302",
+      "303",
+      "304"
+    ],
+    "272": [
+      "301",
+      "303"
+    ],
+    "273": [
+      "301"
+    ],
+    "274": [
+      "312"
+    ],
+    "275": [
+      "302",
+      "306",
+      "307"
+    ],
+    "276": [
+      "302",
+      "303",
+      "304",
+      "313"
+    ],
+    "277": [
+      "302",
+      "309"
+    ],
+    "278": [
+      "302",
+      "309"
+    ],
+    "279": [
+      "302"
+    ]
+  },
+  "wagonyNiedostepne": [
+    274
+  ],
+  "klasa0": [],
+  "klasa1": [
+    273,
+    272
+  ],
+  "klasa2": [
+    279,
+    278,
+    277,
+    276,
+    275,
+    270,
+    269,
+    268,
+    267
+  ],
+  "kierunekJazdy": 0,
+  "wagonySchemat": {
+    "267": "252,WITH_COMPARTMENTS",
+    "268": "252,WITH_COMPARTMENTS",
+    "269": "252,WITH_COMPARTMENTS",
+    "270": "252,WITH_COMPARTMENTS",
+    "272": "2022,WITH_COMPARTMENTS",
+    "273": "2022,WITH_COMPARTMENTS",
+    "275": "1958,WITHOUT_COMPARTMENTS",
+    "276": "1981,WITH_COMPARTMENTS",
+    "277": "2221,2033,WITHOUT_COMPARTMENTS",
+    "278": "2221,2033,WITHOUT_COMPARTMENTS",
+    "279": "1070,WITH_COMPARTMENTS"
+  },
+  "klasaDomyslnyWagon": {
+    "1": 273,
+    "2": 270
+  },
+  "zmieniaKierunek": false
+}

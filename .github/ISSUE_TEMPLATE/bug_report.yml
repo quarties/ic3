@@ -1,0 +1,37 @@
+name: Błąd
+description: IC3 pokazuje złe liczby, błąd albo nic nie pokazuje.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Co się dzieje?
+      description: Co widzisz na karcie połączenia i czego się spodziewasz.
+    validations:
+      required: true
+  - type: input
+    id: connection
+    attributes:
+      label: Połączenie
+      description: Trasa, data i godzina odjazdu, np. „Kraków Gł. → Wrocław Gł., 15.11.2026, 09:53”.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Przeglądarka i wersja
+      placeholder: Firefox 145, Chrome 142, Zen 1.17
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Wersja IC3
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Zrzut ekranu
+      description: Karta połączenia z plakietką IC3. Najedź myszą na plakietkę, aby pokazać podpowiedź.

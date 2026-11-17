@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "IC3",
+  "description": "Pokazuje liczbę wolnych miejsc w klasie 1 i 2 na liście połączeń ebilet.intercity.pl. Nieoficjalna wtyczka.",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://ebilet.intercity.pl/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
