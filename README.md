@@ -30,22 +30,27 @@ Dla połączenia z przesiadką wtyczka pokazuje najmniejszą liczbę ze wszystki
 
 ## Instalacja
 
-Wtyczki nie ma jeszcze w Chrome Web Store ani w katalogu Firefox Add-ons. Gotowe paczki są w [Releases](../../releases): `ic3-chrome-<wersja>.zip` i `ic3-firefox-<wersja>.zip`. Możesz też zbudować wtyczkę sam (zobacz [Build ze źródeł](#build-ze-źródeł)).
+- **Chrome, Edge, Brave:** [Chrome Web Store](https://chromewebstore.google.com/detail/doiekkecdneflmaolejgpidbihofhfpj)
+- **Firefox, Zen:** [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ic3/)
 
-### Chrome, Edge, Brave
+Wymagane wersje: Firefox 140 albo nowsza, Chrome 111 albo nowsza.
+
+### Instalacja ręczna
+
+Gotowe paczki są w [Releases](../../releases): `ic3-chrome-<wersja>.zip` i `ic3-firefox-<wersja>.zip`. Możesz też zbudować wtyczkę sam (zobacz [Build ze źródeł](#build-ze-źródeł)).
+
+#### Chrome, Edge, Brave
 
 1. Rozpakuj `ic3-chrome-<wersja>.zip` do folderu (albo zbuduj `dist/chrome/`).
 2. Otwórz `chrome://extensions`.
 3. Włącz „Tryb dewelopera” (prawy górny róg).
 4. Kliknij „Załaduj rozpakowane” i wybierz ten folder.
 
-### Firefox, Zen (do restartu przeglądarki)
+#### Firefox, Zen (do restartu przeglądarki)
 
 1. Otwórz `about:debugging#/runtime/this-firefox`.
 2. Kliknij „Załaduj tymczasowy dodatek…”.
 3. Wybierz plik `ic3-firefox-<wersja>.zip` (albo `dist/firefox/manifest.json`).
-
-Wymagane wersje: Firefox 140 albo nowsza, Chrome 111 albo nowsza.
 
 ## Jak działa
 
