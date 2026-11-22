@@ -22,8 +22,10 @@ export interface CountDeps {
 
 /**
  * Count the free seats of one train on one leg: get the composition, then the seat map
- * of each wagon. Skip wagons that are not available or have no seat map (e.g. a restaurant car),
+ * of each wagon. Skip wagons that have no seat map (e.g. a restaurant car or a sleeper),
  * also when the API answers 404 for one wagon.
+ * `wagonyNiedostepne` is not used: the page does not read it either, and for a night train
+ * (arrival on the next day) it lists all wagons, also wagons with free seats (docs/api.md).
  * A 404 for the composition passes through: there is no seat map for this train.
  * A count stops (CancelledError) only before its first request. A started count goes to the end,
  * so the cache gets its data and a card that comes back does not send the same requests again.
@@ -39,12 +41,11 @@ export async function countTrain(train: Train, deps: CountDeps): Promise<SeatCou
   // The first request: only while a card still needs this train.
   if (!wanted()) throw new CancelledError();
   const composition = await send(() => api.composition(train, from, to, wanted), wanted);
-  const blocked = new Set(composition.wagonyNiedostepne ?? []);
   const total = emptyCounts();
 
   for (const wagon of composition.wagony ?? []) {
     const schema = composition.wagonySchemat?.[wagon];
-    if (blocked.has(wagon) || !schema) continue;
+    if (!schema) continue;
     try {
       addCounts(total, countWagonSvg(await send(() => api.wagonSvg(train, wagon, schema, from, to)), parser));
     } catch (e) {

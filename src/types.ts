@@ -29,6 +29,7 @@ export interface SearchResponse {
 /** Response of `GET /grm/sklad/…`: the composition of a train. */
 export interface Composition {
   wagony: number[];
+  /** Not reliable, IC3 does not use it: see docs/api.md. */
   wagonyNiedostepne?: number[];
   /** Wagon number -> seat-map schema, e.g. "2022,WITH_COMPARTMENTS". */
   wagonySchemat?: Record<string, string>;

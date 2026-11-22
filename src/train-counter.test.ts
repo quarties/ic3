@@ -8,7 +8,7 @@ import type { Composition } from './types';
 
 const epa = (code: number) => ({ 85: '5100051', 248: '5100143' })[code]!;
 
-test('IC 134: adds all wagons, skips wagon 274 (not available)', async () => {
+test('IC 134: adds all wagons with a schema, also wagon 274 from wagonyNiedostepne', async () => {
   const composition = await fixtureJson<Composition>('sklad-ic134.json');
   const svgs: Record<number, string> = {
     272: await fixture('wagon-ic134-272.svg'),
@@ -24,10 +24,30 @@ test('IC 134: adds all wagons, skips wagon 274 (not available)', async () => {
 
   expect(api.composition).toHaveBeenCalledWith(train(), '5100051', '5100143', expect.any(Function));
   const asked = (api.wagonSvg as ReturnType<typeof mock>).mock.calls.map((call) => call[1]);
-  expect(asked).not.toContain(274);
-  expect(asked).toHaveLength(composition.wagony.length - 1);
+  const withSchema = composition.wagony.filter((w) => composition.wagonySchemat?.[w]);
+  expect(asked).toEqual(withSchema);
   expect(c[1]).toEqual({ free: 0, special: 4, types: { 'Miejsce dla OzN – nie na wózku': 4 } });
   expect(c[2].special).toBe(3);
+});
+
+test('TLK 53171 (night train, arrival next day): wagonyNiedostepne lists all wagons, IC3 still counts them', async () => {
+  // Live API, 26.11.2026 23:32 Warszawa Centr. -> 27.11.2026 06:04 Zakopane (GitHub issue #1).
+  // The page shows the seat map of wagon 14 with free seats.
+  const composition = await fixtureJson<Composition>('sklad-tlk53171.json');
+  expect(composition.wagonyNiedostepne).toEqual(expect.arrayContaining(composition.wagony));
+  const wagon14 = await fixture('wagon-tlk53171-14.svg');
+  const empty = '<svg xmlns="http://www.w3.org/2000/svg"/>';
+  const api: SeatMapApi = {
+    composition: async () => composition,
+    wagonSvg: mock(async (_t, wagon: number) => (wagon === 14 ? wagon14 : empty)),
+  };
+
+  const c = await countTrain(train(), { api, epa, sleep: async () => {} });
+
+  // Sleepers and couchettes (21-24, 30, 31) have no schema.
+  const asked = (api.wagonSvg as ReturnType<typeof mock>).mock.calls.map((call) => call[1]);
+  expect(asked).toEqual([10, 11, 12, 13, 14, 15]);
+  expect(c[2]).toEqual({ free: 34, special: 6, types: { 'Miejsce dla osoby z rowerem': 6 } });
 });
 
 test('skips a wagon without a seat-map schema', async () => {
