@@ -13,8 +13,15 @@ test('chrome: no Firefox settings, minimum Chrome version for world MAIN', () =>
 });
 
 test('firefox: add-on ID and minimum Firefox version', () => {
-  const m = buildManifest(base, '0.1.0', 'firefox') as { browser_specific_settings: { gecko: { id: string } } };
+  type Gecko = { id: string; strict_min_version: string; data_collection_permissions: unknown };
+  const m = buildManifest(base, '0.1.0', 'firefox') as {
+    browser_specific_settings: { gecko: Gecko; gecko_android: { strict_min_version: string } };
+  };
   expect(m.browser_specific_settings.gecko.id).toBe('ic3@quarties.github.io');
+  // Firefox 128 (ESR) is the first version with world MAIN. Do not raise it for data_collection_permissions.
+  expect(m.browser_specific_settings.gecko.strict_min_version).toBe('128.0');
+  expect(m.browser_specific_settings.gecko_android.strict_min_version).toBe('128.0');
+  expect(m.browser_specific_settings.gecko.data_collection_permissions).toEqual({ required: ['none'] });
   expect(m).not.toHaveProperty('minimum_chrome_version');
 });
 

@@ -15,12 +15,14 @@ const BROWSER_KEYS: Record<Target, Manifest> = {
     browser_specific_settings: {
       gecko: {
         id: 'ic3@quarties.github.io',
-        // `data_collection_permissions` needs Firefox 140 (`world: "MAIN"` needs 128).
-        strict_min_version: '140.0',
+        // `world: "MAIN"` in content_scripts needs Firefox 128.
+        // Firefox 140+ reads `data_collection_permissions`. Firefox 128-139 ignores it,
+        // which is correct, because IC3 collects no data.
+        strict_min_version: '128.0',
         data_collection_permissions: { required: ['none'] },
       },
-      // `data_collection_permissions` needs Firefox for Android 142.
-      gecko_android: { strict_min_version: '142.0' },
+      // The same for Firefox for Android: `world: "MAIN"` needs 128, it reads the key from 142.
+      gecko_android: { strict_min_version: '128.0' },
     },
   },
 };

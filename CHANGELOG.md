@@ -4,6 +4,12 @@ Format: [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/). Wersje: [SemVe
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-22
+
+### Zmienione
+
+- Firefox od wersji 128 (wcześniej od 140), także Firefox ESR 128. Firefox na Androidzie od wersji 128 (wcześniej od 142).
+
 ## [1.0.0] - 2026-11-17
 
 Pierwsze wydanie.
