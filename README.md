@@ -33,7 +33,7 @@ Dla połączenia z przesiadką wtyczka pokazuje najmniejszą liczbę ze wszystki
 - **Chrome, Edge, Brave:** [Chrome Web Store](https://chromewebstore.google.com/detail/doiekkecdneflmaolejgpidbihofhfpj)
 - **Firefox, Zen:** [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/ic3/)
 
-Wymagane wersje: Firefox 140 albo nowsza, Chrome 111 albo nowsza.
+Wymagane wersje: Firefox 128 albo nowsza (także Firefox ESR 128), Chrome 111 albo nowsza.
 
 ### Instalacja ręczna
 
