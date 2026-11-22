@@ -72,9 +72,21 @@ Przykład: `/grm/sklad/wbnet/IC/134/202611151250/5100051/202611150953/5100143`
 
 IC3 pomija wagony bez schematu, na przykład wagon restauracyjny, sypialny albo z kuszetkami.
 
-IC3 nie używa pola `wagonyNiedostepne`. Frontend e-IC też go nie czyta: tej nazwy nie ma w żadnym pliku JS strony (sprawdzone 22.11.2026 na liście połączeń i w wyborze miejsc). W pociągu nocnym pole zawiera wszystkie wagony, także wagony z wolnymi miejscami. Przykład: TLK 53171 „Karpaty”, 26.11.2026 23:32 Warszawa Centr. → 27.11.2026 06:04 Zakopane. Skład zwraca wszystkie 12 wagonów w `wagonyNiedostepne`, a strona pokazuje mapę wagonu 14 z 40 wolnymi miejscami (`src/__fixtures__/sklad-tlk53171.json`, `wagon-tlk53171-14.svg`). Ten sam skład z datą odjazdu na pierwszym miejscu w adresie zwraca tylko wagony sypialne i z kuszetkami. Pole zależy więc od daty w adresie, a strona wysyła datę przyjazdu.
+IC3 nie używa pola `wagonyNiedostepne`. Frontend e-IC też go nie czyta: tej nazwy nie ma w żadnym pliku JS strony (sprawdzone 22.11.2026 na liście połączeń i w wyborze miejsc). W części pociągów nocnych pole zawiera wszystkie wagony, także wagony z wolnymi miejscami.
 
-Koszt: IC3 pobiera teraz także mapy wagonów z `wagonyNiedostepne`. W pociągu dziennym to zwykle 0-1 zapytanie więcej (IC 134: wagon 274).
+Przykład: TLK 53171 „Karpaty”, 26.11.2026 23:32 Warszawa Centr. → 27.11.2026 06:04 Zakopane. Skład zwraca wszystkie 12 wagonów w `wagonyNiedostepne`, a strona pokazuje mapę wagonu 14 z 40 wolnymi miejscami (`src/__fixtures__/sklad-tlk53171.json`, `wagon-tlk53171-14.svg`).
+
+Audyt 22.11.2026: 138 pociągów bezpośrednich na 24.11 i 28.11.2026, trasy Warszawa Centr. → Zakopane, Kraków Gł. → Gdynia Gł., Przemyśl Gł. → Świnoujście, Warszawa Centr. → Kraków Gł. i Wrocław Gł. → Warszawa Centr.
+
+| Pociągi | Liczba | `wagonyNiedostepne` (wagony ze schematem) |
+|---|---|---|
+| Dzienne | 120 | puste we wszystkich |
+| Nocne (przez północ albo odjazd przed 5:00) | 10 | wszystkie wagony, np. TLK 53171 do Zakopanego, TLK 35171 00:36 → 08:44, IC 430 |
+| Nocne | 8 | puste, np. TLK 53171 tylko do Krakowa (23:32 → 03:30), IC 61170 |
+
+W tych 10 pociągach każdy sprawdzony wagon z `wagonyNiedostepne` miał w SVG wolne miejsca (30 wagonów, od 13 do 58 wolnych). Pole nie zależy tylko od daty przyjazdu w adresie: TLK 35171 i TLK 83170 mają odjazd i przyjazd tego samego dnia. Nie wiadomo, co pole naprawdę oznacza.
+
+Koszt: IC3 pobiera teraz także mapy wagonów z `wagonyNiedostepne`. W audycie pociągi dzienne miały to pole puste, więc wysyłają tyle samo zapytań co wcześniej. Starszy przykład IC 134 z 15.11.2026 miał jeden wagon w tym polu (274).
 
 ## Mapa wagonu
 
