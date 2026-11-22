@@ -6,6 +6,10 @@ Format: [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/). Wersje: [SemVe
 
 ## [1.0.1] - 2026-11-22
 
+### Naprawione
+
+- Pociągi nocne (przyjazd następnego dnia) pokazywały „brak miejsc”, choć na mapie miejsc były wolne miejsca ([#1](https://github.com/quarties/ic3/issues/1)).
+
 ### Zmienione
 
 - Firefox od wersji 128 (wcześniej od 140), także Firefox ESR 128. Firefox na Androidzie od wersji 128 (wcześniej od 142).

@@ -70,7 +70,11 @@ Przykład: `/grm/sklad/wbnet/IC/134/202611151250/5100051/202611150953/5100143`
 }
 ```
 
-Wagony z `wagonyNiedostepne` i wagony bez schematu (na przykład wagon restauracyjny) IC3 pomija.
+IC3 pomija wagony bez schematu, na przykład wagon restauracyjny, sypialny albo z kuszetkami.
+
+IC3 nie używa pola `wagonyNiedostepne`. Frontend e-IC też go nie czyta: tej nazwy nie ma w żadnym pliku JS strony (sprawdzone 22.11.2026 na liście połączeń i w wyborze miejsc). W pociągu nocnym pole zawiera wszystkie wagony, także wagony z wolnymi miejscami. Przykład: TLK 53171 „Karpaty”, 26.11.2026 23:32 Warszawa Centr. → 27.11.2026 06:04 Zakopane. Skład zwraca wszystkie 12 wagonów w `wagonyNiedostepne`, a strona pokazuje mapę wagonu 14 z 40 wolnymi miejscami (`src/__fixtures__/sklad-tlk53171.json`, `wagon-tlk53171-14.svg`). Ten sam skład z datą odjazdu na pierwszym miejscu w adresie zwraca tylko wagony sypialne i z kuszetkami. Pole zależy więc od daty w adresie, a strona wysyła datę przyjazdu.
+
+Koszt: IC3 pobiera teraz także mapy wagonów z `wagonyNiedostepne`. W pociągu dziennym to zwykle 0-1 zapytanie więcej (IC 134: wagon 274).
 
 ## Mapa wagonu
 
